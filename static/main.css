@@ -40,13 +40,8 @@ a {
 .content hr {
     height: 1px;
     width: 50%;
-    border: 1px solid rgb(139,0,255);
+    border: 2px solid red;
     margin: 0 25% 0 25%;
     border-radius: 5px;
-}
-
-
-.contacts {
-    text-align: center;
 }
 
